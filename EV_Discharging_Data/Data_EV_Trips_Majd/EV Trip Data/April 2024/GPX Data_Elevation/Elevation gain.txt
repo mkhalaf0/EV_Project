@@ -1,0 +1,114 @@
+	
+TRACK STATISTICS
+
+12 Apr 2024 Long Trip
+
+distance: 56.57 mi
+
+time: 1:06:51
+
+elev. min/max: 279'/1597'
+
+elev. gain/loss: 3320'/-3565'
+
+12 Apr 2024 Long Trip
+
+distance: 57.42 mi
+
+time: 1:06:51
+
+elev. min/max: 285'/1548'
+
+elev. gain/loss: 3296'/-3027'
+
+16 Apr 2024 Long Trip
+
+distance: 60.33 mi
+
+time: 1:14:11
+
+elev. min/max: 297'/1607'
+
+elev. gain/loss: 3915'/-4189'
+
+16 Apr 2024 Long Trip
+
+distance: 54.37 mi
+
+time: 1:07:26
+
+elev. min/max: 319'/1582'
+
+elev. gain/loss: 3027'/-2761'
+
+17 Apr 2024 Long Trip
+
+distance: 54.65 mi
+
+time: 1:06:41
+
+elev. min/max: 162'/1603'
+
+elev. gain/loss: 2687'/-3312'
+
+17 Apr 2024 Long Trip
+
+distance: 57.37 mi
+
+time: 1:12:26
+
+elev. min/max: 300'/1496'
+
+elev. gain/loss: 3160'/-2906'
+
+18 Apr 2024 Long Trip
+
+distance: 57.74 mi
+
+time: 1:12:31
+
+elev. min/max: 307'/1599'
+
+elev. gain/loss: 3206'/-3441'
+
+18 Apr 2024 Long Trip
+
+distance: 54.26 mi
+
+time: 1:17:56
+
+elev. min/max: 317'/1577'
+
+elev. gain/loss: 3128'/-2910'
+
+23 Apr 2024 Long Trip
+
+distance: 54.44 mi
+
+time: 1:09:43
+
+elev. min/max: 298'/1552'
+
+elev. gain/loss: 3116'/-2852'
+
+09 May 2024 Long Trip
+
+distance: 64.58 mi
+
+time: 1:00:47
+
+elev. min/max: 115'/1617'
+
+elev. gain/loss: 3005'/-3446'
+
+TOTAL
+
+distance: 571.7 mi
+
+time: 11:35:23
+
+elev. min/max: 115'/1617'
+
+elev. gain/loss: 31860'/-32409'
+
+Elevation gain/loss threshold: 2.2m

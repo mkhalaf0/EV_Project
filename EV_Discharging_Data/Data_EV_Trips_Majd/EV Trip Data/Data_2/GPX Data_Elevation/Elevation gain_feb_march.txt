@@ -1,0 +1,178 @@
+26 Feb 2024 Long Trip
+
+distance: 54.10 mi
+
+time: 1:08:08
+
+elev. min/max: 302'/1558'
+
+elev. gain/loss: 3146'/-2889'
+
+27 Feb 2024 Long Trip
+
+distance: 57.64 mi
+
+time: 1:03:29
+
+elev. min/max: 289'/1591'
+
+elev. gain/loss: 3223'/-3463'
+
+29 Feb 2024 Long Trip
+
+distance: 54.32 mi
+
+time: 1:08:16
+
+elev. min/max: 257'/1579'
+
+elev. gain/loss: 3375'/-3616'
+
+12 Mar 2024 Long Trip
+
+distance: 53.93 mi
+
+time: 1:04:50
+
+elev. min/max: 311'/1581'
+
+elev. gain/loss: 2950'/-2700'
+
+14 Mar 2024 Long Trip
+
+distance: 54.21 mi
+
+time: 1:06:53
+
+elev. min/max: 291'/1591'
+
+elev. gain/loss: 3150'/-3377'
+
+14 Mar 2024 Long Trip
+
+distance: 54.06 mi
+
+time: 1:10:27
+
+elev. min/max: 316'/1560'
+
+elev. gain/loss: 2962'/-2699'
+
+15 Mar 2024 Long Trip
+
+distance: 54.21 mi
+
+time: 1:23:04
+
+elev. min/max: 304'/1586'
+
+elev. gain/loss: 2808'/-3050'
+
+15 Mar 2024 Long Trip
+
+distance: 56.90 mi
+
+time: 1:07:46
+
+elev. min/max: 310'/1554'
+
+elev. gain/loss: 3156'/-2906'
+
+19 Mar 2024 Long Trip
+
+distance: 54.18 mi
+
+time: 1:04:58
+
+elev. min/max: 272'/1594'
+
+elev. gain/loss: 2955'/-3215'
+
+20 Mar 2024 Morning Trip
+
+distance: 56.94 mi
+
+time: 1:28:39
+
+elev. min/max: 314'/1589'
+
+elev. gain/loss: 3145'/-2897'
+21 Mar 2024 Long Trip
+
+distance: 57.51 mi
+
+time: 1:10:45
+
+elev. min/max: 284'/1587'
+
+elev. gain/loss: 3442'/-3655'
+
+21 Mar 2024 Long Trip
+
+distance: 52.23 mi
+
+time: 1:01:59
+
+elev. min/max: 312'/1568'
+
+elev. gain/loss: 2946'/-2585'
+
+22 Mar 2024 Afternoon Trip
+
+distance: 60.00 mi
+
+time: 1:38:32
+
+elev. min/max: 283'/1318'
+
+elev. gain/loss: 3449'/-4143'
+
+25 Mar 2024 Long Trip
+
+distance: 54.02 mi
+
+time: 1:07:09
+
+elev. min/max: 319'/1552'
+
+elev. gain/loss: 2878'/-2620'
+
+26 Mar 2024 Long Trip
+
+distance: 54.02 mi
+
+time: 1:05:13
+
+elev. min/max: 310'/1550'
+
+elev. gain/loss: 3004'/-2753'
+
+27 Mar 2024 Long Trip
+
+distance: 54.02 mi
+
+time: 1:09:23
+
+elev. min/max: 316'/1561'
+
+elev. gain/loss: 2976'/-2713'
+
+28 Mar 2024 Long Trip
+
+distance: 57.62 mi
+
+time: 1:04:32
+
+elev. min/max: 320'/1601'
+
+elev. gain/loss: 2905'/-3148'
+
+28 Mar 2024 Long Trip
+
+distance: 54.01 mi
+
+time: 1:09:34
+
+elev. min/max: 318'/1565'
+
+elev. gain/loss: 3044'/-2784'
